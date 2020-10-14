@@ -21,7 +21,10 @@ h6,
 .blog-post-title a{
     color: #b34848;
 }
-
+a {
+    color:  #b34848;
+}
 a:hover {
     text-decoration: underline;
+    color:  #b34848;
   }
