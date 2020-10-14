@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
+
 <aside class="col-sm-3 ml-sm-auto blog-sidebar">
             <div class="sidebar-module sidebar-module-inset">
                 <h4>About</h4>
@@ -37,5 +30,3 @@
                 </ol>
             </div>
         </aside>
-</body>
-</html>
